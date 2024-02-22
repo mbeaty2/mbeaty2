@@ -22,7 +22,7 @@ I'm Marissa, a recent graduate of the MSc in Data Science and Artificial Intelli
 
 <h2 align="left">Github Analytics
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/mbeaty2">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mbeaty2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mbeaty2&layout=compact&langs_count=8&theme=dracula"/>
 </a>
