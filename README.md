@@ -24,6 +24,6 @@ I'm Marissa, a recent graduate of the MSc in Data Science and Artificial Intelli
 <p align="center">
 <a href="https://github.com/mbeaty2">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mbeaty2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mbeaty2&layout=compact&langs_count=8&hide=jupyternotebook&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mbeaty2&layout=compact&langs_count=8&hide=Jupyter Notebook&theme=dracula"/>
 </a>
 </p>
